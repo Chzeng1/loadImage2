@@ -1,4 +1,4 @@
-/* @pjs preload="CHRISTOPHER_REFERENCE_loadImage_png"; */ 
+ 
 PImage Hoop;
 PImage KD;
 PImage KB;
